@@ -2,7 +2,7 @@
 ### Software Engineer • UI UX • Security-Minded Architect
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Experience-3+%20Years-6E56AF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-4+%20Years-6E56AF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Environment-ZorinOS%20%7C%20Neovim-3D78D8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Mid--Level%20Engineering-208E4E?style=for-the-badge" />
 </p>
