@@ -1,63 +1,66 @@
-# 💻 Himanshu Yadav | Software Engineer
-### Full-Stack Developer • Flutter Specialist • Security-Minded Architect
+# 💻 Himanshu Yadav | @CodeTurbulent
+### Software Engineer • UI/UX Specialist • Security-Minded Developer
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Exp-3+%20Years-0078D4?style=for-the-badge&logo=workplace&logoColor=white" />
-  <img src="https://img.shields.io/badge/OS-ZorinOS%20%7C%20Linux-7494C6?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Editor-Neovim%20%2F%20VSCodium-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
+  <img src="https://img.shields.io/badge/Experience-3+%20Years-6E56AF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Environment-ZorinOS%20%7C%20Neovim-3D78D8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Mid--Level%20Engineering-208E4E?style=for-the-badge" />
 </p>
 
 ---
 
-### 🚀 Professional Profile
-I am a mid-level Software Engineer with a focus on building resilient, scalable systems. With over **3 years of hands-on experience** in Frontend and Mobile development, I bridge the gap between high-level UI/UX and low-level system efficiency. 
+### 🚀 Professional Philosophy
+I bridge the gap between complex system logic and intuitive user interfaces. With **3+ years of experience** across Web and Flutter ecosystems, I focus on building tools that are high-performance, cost-effective, and secure by design.
 
-* **Security-First Approach:** My background in Capture The Flag (CTF) challenges informs my development process—I don't just build features; I harden them against vulnerabilities.
-* **Performance Driven:** I prefer the "Thorium" speed and "Neovim" efficiency. I strive to find the most cost-effective and high-performance path for every technical challenge.
-* **Adaptive Learning:** From mastering Flutter to meet enterprise requirements to exploring system-level programming, I thrive in environments that require rapid technical pivots.
+* **Engineering Mindset:** I treat coding like Minecraft Redstone—connecting intricate logic gates to build something larger than the sum of its parts.
+* **Security-First:** My interest in Cybersecurity ensures that I don't just build for functionality; I build for resilience against common flaws.
+* **Workflow:** I prefer the speed of **Thorium**, the efficiency of **Linux/ZorinOS**, and the precision of **Neovim**.
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Technical Stack
 
-| Domain | Proficiency |
+| Category | Tools |
 | :--- | :--- |
-| **Languages** | JavaScript (ES6+), TypeScript, Dart, C++, Shell Scripting |
-| **Frontend** | React, CSS3/SCSS, HTML Canvas (Creative Coding) |
-| **Mobile** | Flutter (Cross-platform Architecture) |
-| **Systems/DevOps** | Linux Administration, System Design, Automation Scripts |
-| **Tools** | Git, ZorinOS, InfinityFree (Production Hosting), Duck AI |
+| **Frontend & UI** | JavaScript, TypeScript, CSS3, HTML Canvas, React |
+| **Mobile** | Flutter, Dart |
+| **Systems** | Linux Administration, Shell Scripting, C++ |
+| **Backend** | Firebase, System Design, Payment Integration (Paytm) |
+| **Utilities** | Chrome Extensions, VSCodium, Git, InfinityFree |
 
 ---
 
-### 📂 Engineering Impact
+### 🏗️ Current Focus & Active Development
+*These projects represent my current push into product scaling and browser-level tools.*
 
-#### 🏗️ [Shell-Scripts](https://github.com/codeturbulent/shell-scripts)
-**System Automation:** A collection of custom-built tools designed to automate Linux workflows. This repository reflects my deep dive into terminal-based productivity and system-level management.
-
-#### 💳 [Imperial-Feasta](https://github.com/codeturbulent/Imperial-feasta)
-**Full-Stack Integration:** A production-ready registration system utilizing **Firebase** for real-time data and **Paytm Gateway** for financial transactions. Built with a focus on secure user data handling.
-
-#### 🛠️ [Freelance-Projects](https://github.com/codeturbulent/freelance-projects)
-**Client Solutions:** A showcase of custom web solutions delivered to local businesses, focusing on clean code, responsive design, and rapid deployment cycles.
-
-#### 🧩 [Lilbud (In Development)](https://github.com/codeturbulent/Lilbud)
-**Product Design:** A unique hardware-software hybrid concept utilizing QR technology for physical security and contact recovery.
+* **[YetriMusic](https://github.com/codeturbulent/YetriMusic)** | *High-Potential Flutter App* Developing a global free-music platform designed to test the limits of cross-platform streaming and performance.
+* **[BuildInfinity8](https://github.com/Buildinfinity8)** | *Chrome Extension Suite* Building a collection of lightweight, high-utility browser extensions to streamline web productivity and developer workflows.
 
 ---
 
-### 🧠 Beyond the Code
-* **Creative Logic:** I apply the same logic used in **Minecraft Redstone engineering** to solve complex software bottlenecks. It’s where my passion for system design and automation truly started.
-* **Growth Path:** Currently diving deep into **System-Level Programming** and advanced **Linux Kernels** to understand the "how" behind the hardware.
+### 🎨 Featured UI & Functional Projects
+*A showcase of my experience in building responsive, user-centric interfaces and handling production logic.*
+
+* **[Imperial-Feasta](https://github.com/codeturbulent/Imperial-feasta)**: A production-ready registration site with **Firebase** and **Paytm** integration.
+* **[Lilbud](https://github.com/codeturbulent/Lilbud)**: A product-focused UI concept for a QR-based physical recovery system.
+* **[QR Suite](https://github.com/codeturbulent/QR)**: A functional web tool for generating and reading styled QR codes.
+* **[Sweta Public School](https://github.com/codeturbulent/swetapublicschool)**: My debut project—a complete institutional website built to learn real-world deployment.
+* **Go-With-Marine**: An educational material platform designed for marine university students.
 
 ---
 
-### 📫 Let's Collaborate
+### ⚙️ System & Logic
+* **[Shell-Scripts](https://github.com/codeturbulent/shell-scripts)**: My daily-driver automation scripts for Linux system management.
+* **[Learning-Canvas](https://github.com/codeturbulent/learning-canwas)**: Exploration into creative coding and rendering logic via HTML5 Canvas.
+
+---
+
+### 📫 Connect & Collaborate
 <p align="left">
 <a href="https://linkedin.com/in/codeturbulent"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://instagram.com/codeturbulent"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://codeturbulent.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-black?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="https://codeturbulent.github.io"><img src="https://img.shields.io/badge/Portfolio-Personal%20Site-black?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
-*"Building the most efficient solution, even if it requires rewriting the rules."*
+*"Working calmly to deliver finished products that solve real-world problems."*
