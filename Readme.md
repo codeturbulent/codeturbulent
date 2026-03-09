@@ -1,63 +1,217 @@
-# 👨‍💻 Himanshu Yadav | @CodeTurbulent
-### Software Engineer & Security Enthusiast
+<h1 align="center">Hi 👋 I'm Himanshu Yadav</h1>
+<h3 align="center">aka Code Turbulent | Web Developer | Flutter Dev | Linux Enthusiast</h3>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Experience-3+%20Years-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Mid--Level%20Fullstack-2ea44f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Security-CTF%20Rank%204-red?style=for-the-badge" />
+<p align="center">
+Building useful things on the internet and breaking them to learn how they work.
 </p>
 
 ---
 
-### 📖 The Narrative
-I am a **problem-solver** who builds with a "Security-First" mindset. With over **3 years of experience** in Frontend, Backend, and Flutter development, I don't just write code—I architect solutions. My background in **Capture The Flag (CTF)** competitions allows me to spot vulnerabilities before they become features, ensuring every product I deliver is robust and efficient.
+## 👀 Before You Scroll Away...
 
-* **Current Focus:** Mastering System-Level programming, advanced TypeScript, and scaling Flutter architectures.
-* **Philosophy:** Work calmly, build efficiently, and always find the most cost-effective, high-performance way to solve a problem—even if it means building the "planet" from scratch.
+If you are a **startup founder, recruiter, or developer** looking for someone who:
 
----
+✔ Builds real working products  
+✔ Thinks about **security and system design**  
+✔ Loves solving bugs and complex problems  
+✔ Works calmly but delivers on time  
 
-### 🛠️ Tech Stack & Toolbox
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Frontend** | JavaScript (ES6+), CSS3, HTML5 Canvas, React |
-| **Mobile** | Flutter, Dart |
-| **Backend & Systems** | Node.js, Linux (ZorinOS), Shell Scripting, System Design |
-| **Security** | Penetration Testing, CTF Strategy, Vulnerability Assessment |
-| **Tools** | Neovim, VS Codium, Thorium Browser, Git, InfinityFree |
+Then **please take 2 minutes to explore my work below**. You might like what you see.
 
 ---
 
-### 🚀 Highlighted Projects
+# 🚀 About Me
 
-#### 📱 [Lilbud](https://github.com/codeturbulent/Lilbud)
-A startup-focused concept: A physical keychain with a QR code linking to contact details. Built to solve the real-world problem of lost items through a simple web interface.
+Hi, I'm **Himanshu Yadav**, a developer from India who loves building things that actually solve problems.
 
-#### 🎵 [YetriMusic](https://github.com/codeturbulent/YetriMusic)
-An ambitious upcoming project aimed at providing free music access globally. This serves as my playground for high-potential Flutter development and system scaling.
+I have **3+ years of experience in web development**, along with experience in:
 
-#### 🎫 [Imperial-feasta](https://github.com/codeturbulent/Imperial-feasta)
-A full-cycle hobby website for university event registration, integrating **Firebase** and **Paytm** for real-time payment processing.
+- Frontend development
+- Some backend development
+- Flutter app development
+- Linux systems
+- System design basics
+- Cybersecurity (CTFs)
 
-#### 🛡️ [Shell-Scripts](https://github.com/codeturbulent/shell-scripts)
-A curated collection of every automation and system script I've built to optimize my Linux workflow.
+I believe in **learning by building real projects**, which is why most of my GitHub is full of experiments, ideas, and working tools.
 
----
-
-### 🏆 Achievements & Fun Facts
-* **CTF Competitor:** Ranked **4th** in a recent Capture The Flag competition. I actively participate in security challenges to sharpen my technical edge.
-* **Creative Thinking:** When I'm not coding, I'm likely in **Minecraft**. I use Redstone engineering to simulate complex logic gates, which keeps my creative problem-solving muscles active.
-* **Quick Learner:** I transitioned into Flutter specifically to meet a company's requirements and ended up falling in love with the framework.
+I don't rush code — I write it **calmly, carefully, and finish what I start.**
 
 ---
 
-### 📫 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/codeturbulent"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/codeturbulent"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://codeturbulent.github.io"><img src="https://img.shields.io/badge/Portfolio-Personal%20Site-black?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+# 🧠 My Mindset
+
+I strongly believe in:
+
+- Growth mindset
+- Team collaboration
+- Continuous learning
+- Security-first thinking
+
+I also actively participate in **Capture The Flag competitions**, where I achieved **4th rank in one event**.
+
+Cybersecurity helps me think about:
+
+- vulnerabilities
+- system flaws
+- safer architecture
+
+---
+
+# 🛠 Tech I Work With
+
+### Languages
+HTML • CSS • JavaScript • TypeScript
+Dart (Flutter)
+Python
+Shell scripting
+C++
+
+### Tools I Love
+
+- Linux (mainly **Zorin OS**)
+- **Neovim**
+- **VSCodium**
+- **Thorium Browser**
+
+### Platforms
+
+- GitHub (my home)
+- InfinityFree (for free production hosting)
+- Firebase
+- Paytm integrations
+
+---
+
+# 📌 Projects You Should Look At
+
+Here are a few projects I'm proud of.
+
+### 🔗 QR Generator & Reader
+A clean static web project to **generate and scan QR codes**.
+
+Repository: `QR`
+
+---
+
+### 🔗 Imperial Feasta
+A **real working event registration website** built using:
+
+- Firebase
+- Paytm payment integration
+
+This project handled **actual user registrations for a university event.**
+
+Repository: `Imperial-feasta`
+
+---
+
+### 🔗 Lilbud
+A startup concept I designed.
+
+A **keychain QR system** that helps return lost items by linking to the owner's contact info.
+
+Repository: `Lilbud`
+
+---
+
+### 🔗 Shell Scripts
+Useful scripts I built for Linux automation.
+
+Repository: `shell-scripts`
+
+---
+
+# 📱 Flutter Work
+
+I also build mobile apps using **Flutter**.
+
+Projects include:
+
+- `Flutter-Basic`
+- `learning-flutter`
+
+These repositories document my journey exploring the framework and building problem-solving apps.
+
+---
+
+# 🧩 My Learning Journey
+
+I started programming in **July 2021**, beginning with:
+
+- HTML
+- CSS
+- JavaScript
+
+You can actually see my **entire learning timeline** in my repositories:
+
+- `learning-html`
+- `learning-css`
+- `learning-js`
+- `learning-canvas`
+
+I intentionally keep these public to **show my growth as a developer**.
+
+---
+
+# 🧪 Cybersecurity & CTF
+
+I enjoy exploring:
+
+- vulnerabilities
+- system weaknesses
+- secure coding practices
+
+I regularly participate in **Capture The Flag competitions** to sharpen my skills.
+
+---
+
+# 🎮 Fun Fact
+
+I play **Minecraft**.
+
+And surprisingly it helps with:
+
+- creative problem solving
+- logic building
+- systems thinking
+
+Redstone engineering is basically **visual programming**.
+
+---
+
+# 🌐 Find Me Around The Internet
+
+📸 Instagram  
+https://instagram.com/codeturbulent  
+
+💼 LinkedIn  
+https://linkedin.com/in/codeturbulent  
+
+🌍 Portfolio  
+https://codeturbulent.github.io
+
+---
+
+# 🤝 What I'm Looking For
+
+I'm currently looking for:
+
+**Mid-level developer roles**
+
+but until then I will keep:
+
+- building
+- experimenting
+- learning
+- contributing
+
+---
+
+<p align="center">
+If you reached here, thanks for checking my profile ❤️
 </p>
 
----
-*“I build with calm precision and a hacker’s eye for detail.”*
+<p align="center">
+Maybe we should build something together.
+</p>
